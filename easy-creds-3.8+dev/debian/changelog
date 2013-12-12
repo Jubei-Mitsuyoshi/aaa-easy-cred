@@ -1,0 +1,7 @@
+easy-creds (3.8+dev-aaa) kali; urgency=low
+
+  * Initial release
+  * this is just a single script packaged with a simple makefile
+  * and a few associated files like .desktop
+
+ -- Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>  Thu, 21 Nov 2013 21:51:37 +0100
